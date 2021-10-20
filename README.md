@@ -15,6 +15,7 @@ VPC
 Public Route table associations
 Private Route teable associations
 
+All these resource code is written in modules section. Main section is only used for passing the variables to modules
 Steps to run - 
 
 preqreuisites - 
